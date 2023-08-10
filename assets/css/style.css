@@ -385,12 +385,11 @@ h6 {
   transition: 0.5s;
   color: #fff;
   background: #ed807e;
-  box-shadow: 0 8px 28px rgba(22, 223, 126, 0.45);
+  box-shadow: 0 8px 28px #ed807e;
 }
 
 #hero .btn-get-started:hover {
-  background: #206bfb;
-  box-shadow: 0 8px 28px rgba(32, 107, 251, 0.45);
+  box-shadow: 0 8px 28px #ed807e;
 }
 
 #hero .btn-watch-video {
