@@ -1,7 +1,7 @@
 /**
- * Template Name: Munchpal
+ * Template Name: MunchPal
  * Updated: Jul 27 2023 with Bootstrap v5.3.1
- * Template URL: https://bootstrapmade.com/Munchpal-free-simple-bootstrap-template/
+ * Template URL: https://bootstrapmade.com/MunchPal-free-simple-bootstrap-template/
  * Author: BootstrapMade.com
  * License: https://bootstrapmade.com/license/
  */

@@ -1,2 +1,2 @@
 Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/Munchpal-free-simple-bootstrap-template/
+You can buy it from: https://bootstrapmade.com/MunchPal-free-simple-bootstrap-template/
